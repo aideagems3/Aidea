@@ -249,40 +249,40 @@ function Map() {
                       <td className="text-right">1</td>
                     </tr>
                     <tr>
-                      <td>Minerva Hooper</td>
-                      <td>Curaçao</td>
-                      <td>Sinaai-Waas</td>
-                      <td className="text-right">$23,789</td>
+                      <td>PEAWBA02</td>
+                      <td>100</td>
+                      <td>11 Apr 2021</td>
+                      <td className="text-right">2</td>
                     </tr>
                     <tr>
-                      <td>Sage Rodriguez</td>
-                      <td>Netherlands</td>
-                      <td>Baileux</td>
-                      <td className="text-right">$56,142</td>
+                      <td>PEAWBA03</td>
+                      <td>100</td>
+                      <td>11 Apr 2021</td>
+                      <td className="text-right">3</td>
                     </tr>
                     <tr>
-                      <td>Philip Chaney</td>
-                      <td>Korea, South</td>
-                      <td>Overland Park</td>
-                      <td className="text-right">$38,735</td>
+                      <td>PEAWBA04</td>
+                      <td>100</td>
+                      <td>11 Apr 2021</td>
+                      <td className="text-right">6</td>
                     </tr>
                     <tr>
-                      <td>Doris Greene</td>
-                      <td>Malawi</td>
-                      <td>Feldkirchen in Kärnten</td>
-                      <td className="text-right">$63,542</td>
+                      <td>PEAWBA05</td>
+                      <td>100</td>
+                      <td>11 Apr 2021</td>
+                      <td className="text-right">7</td>
                     </tr>
                     <tr>
-                      <td>Mason Porter</td>
-                      <td>Chile</td>
-                      <td>Gloucester</td>
-                      <td className="text-right">$78,615</td>
+                      <td>PEAWBA06</td>
+                      <td>100</td>
+                      <td>11 Apr 2021</td>
+                      <td className="text-right">8</td>
                     </tr>
                     <tr>
-                      <td>Jon Porter</td>
-                      <td>Portugal</td>
-                      <td>Gloucester</td>
-                      <td className="text-right">$98,615</td>
+                      <td>PEAWBA07</td>
+                      <td>150</td>
+                      <td>11 Apr 2021</td>
+                      <td className="text-right">9</td>
                     </tr>
                   </tbody>
                 </Table>
