@@ -220,10 +220,10 @@ function Map() {
                  </Col>
                           <Col md="4">
                               <Button
-                                className="btn-round"
+                                className="btn-round-login"
                                 color="primary"
                                 type="submit"
-                                href="src/views/Icons.js"
+                                href="./Icons"
                                 >
                                 + New Project
                               </Button>

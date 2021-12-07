@@ -27,6 +27,7 @@ var routes = [
   // Maps
     {
     path: "/Project",
+    
     name: "Projects",
     icon: "nc-icon nc-pin-3",
     component: Project,
@@ -59,8 +60,8 @@ var routes = [
   // Icons
   {
     path: "/icons",
-    name: "Icons",
-    icon: "nc-icon nc-diamond",
+    // name: "Icons",
+    // icon: "nc-icon nc-diamond",
     component: Icons,
     layout: "/admin",
   },

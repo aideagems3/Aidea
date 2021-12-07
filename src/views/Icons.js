@@ -150,10 +150,10 @@ const Icons = () => {
 
     return (
         <div style={{backgroundColor:"#F8F8F8"}}>
-          <Navbar  className="justify-content-between" style={{backgroundColor:"#FFFFFF"}} expand="lg" >
+          {/* <Navbar  className="justify-content-between" style={{backgroundColor:"#FFFFFF"}} expand="lg" >
          
-              <Container  style={{backgroundColor:"#FFFFFF"}}>
-                <Navbar.Brand href="/" >
+              <Container  style={{backgroundColor:"#FFFFFF"}}> */}
+                {/* <Navbar.Brand href="/" >
                   <img
                     src="/AiDea_logo5.jpg"
                     width="50"
@@ -161,9 +161,9 @@ const Icons = () => {
                     className="d-inline-block align-top"
                     alt="AideaLogo"
                   />
-                </Navbar.Brand>
+                </Navbar.Brand> */}
                 
-                <Navbar.Toggle aria-controls = "basic-navbar-nav"/>
+                {/* <Navbar.Toggle aria-controls = "basic-navbar-nav"/>
                 <Navbar.Collapse id = "basic-navbar-nav">
                   <Nav fill variant="tabs" defaultActiveKey="#action2">
                     <Nav.Link href="#action1">Dashboard</Nav.Link>
@@ -175,10 +175,10 @@ const Icons = () => {
                     <Nav.Link href="#action4" target="_blank">HomePage</Nav.Link>
                   </Nav>
                 
-                </Navbar.Collapse>
+                </Navbar.Collapse> */}
                 
-              </Container>
-          </Navbar>    
+              {/* </Container>
+          </Navbar>     */}
 
           <Container style={{padding:20,marginTop:20}}>
             <br/>
